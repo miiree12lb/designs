@@ -49,3 +49,50 @@ body {
     background-color:#94692d;
     color: #151515;
 }
+
+#nav {
+    position: fixed;
+    padding: 0 10px;
+    display: flex;
+    gap: 20px;
+    background-color: #292929;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    align-items: center;
+    height: 75px;
+}
+
+#nav a {
+    color: #94692D;
+    text-decoration: none;
+    font-size: large;
+}
+
+#nav a:hover {
+    color: #FF4136;
+}
+
+.chip {
+    display: inline-block;
+    padding: 0 25px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 25px;
+    background-color: #292929;
+    border: solid 1px #94692D;
+    color: #94692D;
+    font-weight: bold;
+}
+.chip img {
+    float: left;
+    margin: -10px 10px 0 -35px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+#view {
+    padding: 0 5%;
+    padding-top: 100px;
+}

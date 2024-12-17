@@ -1,6 +1,7 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 //@ts-ignore
-import tshirtCover from "./assets/images/covers/t-shirt-business-name-ideas.png"
+import tshirtCover from "./assets/images/covers/t-shirt-business-name-ideas.png";
 import tattooCover from "./assets/images/covers/tattoos.png";
 
 export default function Home() {
@@ -11,7 +12,9 @@ export default function Home() {
                     backgroundImage: `url(${tshirtCover})`
                 }}
             >
-                <button>T-shirts</button>
+                <Link to="/tshirts">
+                    <button>T-shirts</button>
+                </Link>
             </div>
 
             <div className='parallax'
@@ -19,10 +22,10 @@ export default function Home() {
                     backgroundImage: `url(${tattooCover})`
                 }}
             >
-            <button>Tattoos</button>
-        </div>
+                <Link to="/tattoos">
+                    <button>Tattoos</button>
+                </Link>
+            </div>
         </>
-
-
     );
 }

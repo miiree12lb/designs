@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/designs/static/css/main.b60bea6d.css",
-    "main.js": "/designs/static/js/main.ce46413b.js",
+    "main.css": "/designs/static/css/main.16a7ea3c.css",
+    "main.js": "/designs/static/js/main.27ab1e9b.js",
     "static/media/t-shirt-business-name-ideas.png": "/designs/static/media/t-shirt-business-name-ideas.53a06f5f85dfca0f12d6.png",
     "static/media/logo.png": "/designs/static/media/logo.76cf9eda8eea70c787d8.png",
     "static/media/tattoos.png": "/designs/static/media/tattoos.dc7811b6e6068650627a.png",
     "static/media/instagram.svg": "/designs/static/media/instagram.f1b93ec68f3f311e5c68d6085a9b479c.svg",
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
-    "main.b60bea6d.css.map": "/designs/static/css/main.b60bea6d.css.map",
-    "main.ce46413b.js.map": "/designs/static/js/main.ce46413b.js.map"
+    "main.16a7ea3c.css.map": "/designs/static/css/main.16a7ea3c.css.map",
+    "main.27ab1e9b.js.map": "/designs/static/js/main.27ab1e9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b60bea6d.css",
-    "static/js/main.ce46413b.js"
+    "static/css/main.16a7ea3c.css",
+    "static/js/main.27ab1e9b.js"
   ]
 }
