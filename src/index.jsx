@@ -1,12 +1,21 @@
 import React from 'react';
 import { createRoot } from "react-dom/client";
+import Footer from './Footer.jsx';
+import Home from './Home.jsx';
+//@ts-ignore
+import "./css/root.css";
+import { BrowserRouter } from 'react-router-dom';
 
 function Root() {
     return (
-        <div>
-            <h1>Welcome to the React App!</h1>
-            <p>This is a simple React app.</p>
-        </div>
+        <BrowserRouter>
+            <Home/>
+
+            <div id="footer">
+                <Footer/>
+            </div>
+            
+        </BrowserRouter>
     );
 }
 
