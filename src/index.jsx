@@ -44,13 +44,13 @@ function Root() {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="/designs" element={<LayoutWithoutNav />} />
+                <Route path="/designs/" element={<LayoutWithoutNav />} />
                 
                 <Route element={<LayoutWithNav />}>
-                    <Route path="/tshirts" element={<Tshirts />} />
-                    <Route path="/tattoos" element={<Tattoos/>} />
-                    <Route path="/slider" element={<SliderPage />} />
-                    <Route path="/insta" element={<Insta />} />
+                    <Route path="/designs/tshirts" element={<Tshirts />} />
+                    <Route path="/designs/tattoos" element={<Tattoos/>} />
+                    <Route path="/designs/slider" element={<SliderPage />} />
+                    <Route path="/designs/insta" element={<Insta />} />
                 </Route>
             </Routes>
         </BrowserRouter>

@@ -30,9 +30,9 @@ export default function Navbar() {
             {!isMobile && (
                 <>
                     <Link to="/designs">Home</Link>
-                    <Link to="/tshirts">T-Shirts</Link>
-                    <Link to="/tattoos">Tattoos</Link>
-                    <Link to="/insta">Insta Covers</Link>
+                    <Link to="/designs/tshirts">T-Shirts</Link>
+                    <Link to="/designs/tattoos">Tattoos</Link>
+                    <Link to="/designs/insta">Insta Covers</Link>
                 </>
             )}
 

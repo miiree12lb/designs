@@ -17,7 +17,7 @@ export default function Tshirts() {
     ];
 
     const openSlider = (tshirt) => {
-        navigate("/slider", { state: { images: tshirt.imgs, title: tshirt.title } });
+        navigate("/designs/slider", { state: { images: tshirt.imgs, title: tshirt.title } });
     };
 
     return (

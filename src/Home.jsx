@@ -31,7 +31,7 @@ export default function Home() {
                     backgroundImage: `url(${p.img})`
                 }}
             >
-                <Link to={p.link}>
+                <Link to={"/designs" + p.link}>
                     <button>{p.title}</button>
                 </Link>
             </div>
