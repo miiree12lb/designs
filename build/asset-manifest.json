@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/designs/static/css/main.08a97311.css",
-    "main.js": "/designs/static/js/main.0e407ee2.js",
+    "main.css": "/designs/static/css/main.14b01296.css",
+    "main.js": "/designs/static/js/main.55bd1546.js",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
     "static/media/science3.png": "/designs/static/media/science3.9adcf8de3df2f748f5d8.png",
@@ -10,7 +10,7 @@
     "static/media/enjoy3.png": "/designs/static/media/enjoy3.b78978f3e066f39367fd.png",
     "static/media/t-shirt-business-name-ideas.png": "/designs/static/media/t-shirt-business-name-ideas.53a06f5f85dfca0f12d6.png",
     "static/media/logo.png": "/designs/static/media/logo.76cf9eda8eea70c787d8.png",
-    "static/media/insta.png": "/designs/static/media/insta.483839b6283f39babd07.png",
+    "static/media/insta.png": "/designs/static/media/insta.4e5ce882ca74243fbbd2.png",
     "static/media/c_cover.png": "/designs/static/media/c_cover.befa60978d0ac218f154.png",
     "static/media/route66_cover.png": "/designs/static/media/route66_cover.3121c33c64bb5ab84339.png",
     "static/media/miiree12lb.png": "/designs/static/media/miiree12lb.31d6d0d8fc820255ffca.png",
@@ -38,14 +38,15 @@
     "static/media/escala_cover.png": "/designs/static/media/escala_cover.790b6c4b172bd2fb772e.png",
     "static/media/tattoos.png": "/designs/static/media/tattoos.dc7811b6e6068650627a.png",
     "static/media/WI_cover.png": "/designs/static/media/WI_cover.bc8c3b5267ef7719bc88.png",
+    "static/media/tatto.png": "/designs/static/media/tatto.c70854cdeb89c4b4161f.png",
     "static/media/instagram.svg": "/designs/static/media/instagram.f1b93ec68f3f311e5c68d6085a9b479c.svg",
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
-    "main.08a97311.css.map": "/designs/static/css/main.08a97311.css.map",
-    "main.0e407ee2.js.map": "/designs/static/js/main.0e407ee2.js.map"
+    "main.14b01296.css.map": "/designs/static/css/main.14b01296.css.map",
+    "main.55bd1546.js.map": "/designs/static/js/main.55bd1546.js.map"
   },
   "entrypoints": [
-    "static/css/main.08a97311.css",
-    "static/js/main.0e407ee2.js"
+    "static/css/main.14b01296.css",
+    "static/js/main.55bd1546.js"
   ]
 }
