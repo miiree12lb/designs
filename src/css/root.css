@@ -125,6 +125,16 @@ body {
     color:#94692D;
 }
 
-.row {
-    overflow-x: auto;
+@media only screen and (max-width: 800px) {
+    .item-displayer {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .item {
+        width: 85vw;
+    }
+
+    #nav a {
+        font-size: small;
+    }
 }
