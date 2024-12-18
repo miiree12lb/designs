@@ -35,6 +35,27 @@ body {
     align-items: center;
 }
 
+.parallax.apple {
+    background-attachment: scroll;
+    background-position: center center;
+}
+
+.parallax.apple::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transform: translateY(0);
+    will-change: transform;
+}
+
+
 .parallax button {
     font-size: xx-large;
     color:#94692d;
