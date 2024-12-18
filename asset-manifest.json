@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.53fb2011.css",
-    "main.js": "/designs/static/js/main.1af9ea75.js",
+    "main.js": "/designs/static/js/main.a3367963.js",
+    "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
     "static/media/science3.png": "/designs/static/media/science3.9adcf8de3df2f748f5d8.png",
     "static/media/science.png": "/designs/static/media/science.29ee332a91d90e95a211.png",
     "static/media/science4.png": "/designs/static/media/science4.225cf96c75f305dd43a1.png",
+    "static/media/enjoy3.png": "/designs/static/media/enjoy3.b78978f3e066f39367fd.png",
     "static/media/t-shirt-business-name-ideas.png": "/designs/static/media/t-shirt-business-name-ideas.53a06f5f85dfca0f12d6.png",
     "static/media/logo.png": "/designs/static/media/logo.76cf9eda8eea70c787d8.png",
     "static/media/miiree12lb.png": "/designs/static/media/miiree12lb.31d6d0d8fc820255ffca.png",
+    "static/media/miiree12lb2.png": "/designs/static/media/miiree12lb2.de45e99a717eaa042318.png",
+    "static/media/enjoy.png": "/designs/static/media/enjoy.be32a7cd1217c04bf5ec.png",
     "static/media/tattoos.png": "/designs/static/media/tattoos.dc7811b6e6068650627a.png",
     "static/media/instagram.svg": "/designs/static/media/instagram.f1b93ec68f3f311e5c68d6085a9b479c.svg",
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.53fb2011.css.map": "/designs/static/css/main.53fb2011.css.map",
-    "main.1af9ea75.js.map": "/designs/static/js/main.1af9ea75.js.map"
+    "main.a3367963.js.map": "/designs/static/js/main.a3367963.js.map"
   },
   "entrypoints": [
     "static/css/main.53fb2011.css",
-    "static/js/main.1af9ea75.js"
+    "static/js/main.a3367963.js"
   ]
 }
