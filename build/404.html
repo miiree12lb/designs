@@ -11,7 +11,8 @@
 <body>
   <p>This is not the page you're looking for.</p>
   <script>
-    window.location.href = '/designs';
+    currentPath = window.location.pathname;
+    window.location.href = '/designs' + currentPath;
   </script>
 </body>
 </html>
