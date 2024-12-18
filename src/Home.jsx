@@ -6,37 +6,25 @@ import tattooCover from "./assets/images/covers/tattoos.png";
 import insta from "./assets/images/covers/insta.png"
 
 export default function Home() {
+    const parallax_contents = [
+        { title: "T-shirts", img: tshirtCover, link: "/tshirts" },
+        { title: "Tattoos", img: tattooCover, link: "/tattoos" },
+        { title: "Insta Covers", img: insta, link: "/insta" },
+    ];
+
     return (
         <>
-            <div className='parallax'
+            {parallax_contents.map((p) => (
+                <div className='parallax'
                 style={{
-                    backgroundImage: `url(${tshirtCover})`
+                    backgroundImage: `url(${p.img})`
                 }}
             >
-                <Link to="/tshirts">
-                    <button>T-shirts</button>
+                <Link to={p.link}>
+                    <button>{p.title}</button>
                 </Link>
             </div>
-
-            <div className='parallax'
-                style={{
-                    backgroundImage: `url(${tattooCover})`
-                }}
-            >
-                <Link to="/tattoos">
-                    <button>Tattoos</button>
-                </Link>
-            </div>
-
-            <div className='parallax'
-                style={{
-                    backgroundImage: `url(${insta})`
-                }}
-            >
-                <Link to="/insta">
-                    <button>Insta Covers</button>
-                </Link>
-            </div>
+            ))}
         </>
     );
 }
