@@ -6,6 +6,7 @@ import Navbar from './Navbar.jsx';
 import Tshirts from './Tshirts.jsx';
 import Tattoos from './Tattoos.jsx';
 import SliderPage from './SliderPage.jsx';
+import Insta from "./InstaCovers.jsx"
 //@ts-ignore
 import "./css/root.css";
 import { BrowserRouter, Route, Routes, Outlet } from 'react-router-dom';
@@ -49,6 +50,7 @@ function Root() {
                     <Route path="/tshirts" element={<Tshirts />} />
                     <Route path="/tattoos" element={<Tattoos/>} />
                     <Route path="/slider" element={<SliderPage />} />
+                    <Route path="/insta" element={<Insta />} />
                 </Route>
             </Routes>
         </BrowserRouter>

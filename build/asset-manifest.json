@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.08a97311.css",
-    "main.js": "/designs/static/js/main.a3367963.js",
+    "main.js": "/designs/static/js/main.0e407ee2.js",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
     "static/media/science3.png": "/designs/static/media/science3.9adcf8de3df2f748f5d8.png",
@@ -10,18 +10,42 @@
     "static/media/enjoy3.png": "/designs/static/media/enjoy3.b78978f3e066f39367fd.png",
     "static/media/t-shirt-business-name-ideas.png": "/designs/static/media/t-shirt-business-name-ideas.53a06f5f85dfca0f12d6.png",
     "static/media/logo.png": "/designs/static/media/logo.76cf9eda8eea70c787d8.png",
+    "static/media/insta.png": "/designs/static/media/insta.483839b6283f39babd07.png",
+    "static/media/c_cover.png": "/designs/static/media/c_cover.befa60978d0ac218f154.png",
+    "static/media/route66_cover.png": "/designs/static/media/route66_cover.3121c33c64bb5ab84339.png",
     "static/media/miiree12lb.png": "/designs/static/media/miiree12lb.31d6d0d8fc820255ffca.png",
+    "static/media/twente.png": "/designs/static/media/twente.bb70155b149cff531692.png",
     "static/media/miiree12lb2.png": "/designs/static/media/miiree12lb2.de45e99a717eaa042318.png",
+    "static/media/travel_cover.png": "/designs/static/media/travel_cover.aad18faea977df98e357.png",
+    "static/media/lmh_cover.png": "/designs/static/media/lmh_cover.8b12c207bcffd8d378cf.png",
+    "static/media/nl_cover.png": "/designs/static/media/nl_cover.9c73192ab4682cb89cbe.png",
     "static/media/enjoy.png": "/designs/static/media/enjoy.be32a7cd1217c04bf5ec.png",
+    "static/media/irl_cover.png": "/designs/static/media/irl_cover.6d100238571d91cda39a.png",
+    "static/media/me_cover.png": "/designs/static/media/me_cover.57324a93b6b5f87e2cd7.png",
+    "static/media/fcb.png": "/designs/static/media/fcb.f8ca85e7037f1419034d.png",
+    "static/media/essyi_cover.png": "/designs/static/media/essyi_cover.bf268ecf738a82f8a16f.png",
+    "static/media/earth.png": "/designs/static/media/earth.2359b0e3c510b570ed53.png",
+    "static/media/berlin_cover.png": "/designs/static/media/berlin_cover.818ee645b99edfeb6a7f.png",
+    "static/media/mountain_cover.png": "/designs/static/media/mountain_cover.48db24b2f15ace41d683.png",
+    "static/media/nyc_cover.png": "/designs/static/media/nyc_cover.dd61b5aae19ae4a9e1cc.png",
+    "static/media/gym_cover.png": "/designs/static/media/gym_cover.f317c4720de600992785.png",
+    "static/media/video_editing_cover.png": "/designs/static/media/video_editing_cover.c69f228fb7275e2f5e8f.png",
+    "static/media/guitar_cover.png": "/designs/static/media/guitar_cover.0f0f75f381a72e95ba17.png",
+    "static/media/uk_cover.png": "/designs/static/media/uk_cover.2230e92e45d4ee095ee7.png",
+    "static/media/madrid_cover.png": "/designs/static/media/madrid_cover.3dd8d8d2f9a45128371d.png",
+    "static/media/coding_cover.png": "/designs/static/media/coding_cover.6345f2fd0369aa2595fb.png",
+    "static/media/tat_cover.png": "/designs/static/media/tat_cover.7dbbc431e0b7c207e58e.png",
+    "static/media/escala_cover.png": "/designs/static/media/escala_cover.790b6c4b172bd2fb772e.png",
     "static/media/tattoos.png": "/designs/static/media/tattoos.dc7811b6e6068650627a.png",
+    "static/media/WI_cover.png": "/designs/static/media/WI_cover.bc8c3b5267ef7719bc88.png",
     "static/media/instagram.svg": "/designs/static/media/instagram.f1b93ec68f3f311e5c68d6085a9b479c.svg",
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.08a97311.css.map": "/designs/static/css/main.08a97311.css.map",
-    "main.a3367963.js.map": "/designs/static/js/main.a3367963.js.map"
+    "main.0e407ee2.js.map": "/designs/static/js/main.0e407ee2.js.map"
   },
   "entrypoints": [
     "static/css/main.08a97311.css",
-    "static/js/main.a3367963.js"
+    "static/js/main.0e407ee2.js"
   ]
 }

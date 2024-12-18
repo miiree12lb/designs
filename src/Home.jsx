@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 //@ts-ignore
 import tshirtCover from "./assets/images/covers/t-shirt-business-name-ideas.png";
 import tattooCover from "./assets/images/covers/tattoos.png";
+import insta from "./assets/images/covers/insta.png"
 
 export default function Home() {
     return (
@@ -24,6 +25,16 @@ export default function Home() {
             >
                 <Link to="/tattoos">
                     <button>Tattoos</button>
+                </Link>
+            </div>
+
+            <div className='parallax'
+                style={{
+                    backgroundImage: `url(${insta})`
+                }}
+            >
+                <Link to="/insta">
+                    <button>Insta Covers</button>
                 </Link>
             </div>
         </>

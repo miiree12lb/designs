@@ -15,6 +15,7 @@ export default function Navbar() {
             <Link to="/designs">Home</Link>
             <Link to="/tshirts">T-Shirts</Link>
             <Link to="/tattoos">Tattoos</Link>
+            <Link to="/insta">Insta Covers</Link>
         </div>
     )
 }
