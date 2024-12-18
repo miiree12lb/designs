@@ -5,6 +5,7 @@ import Home from './Home.jsx';
 import Navbar from './Navbar.jsx';
 import Tshirts from './Tshirts.jsx';
 import Tattoos from './Tattoos.jsx';
+import SliderPage from './SliderPage.jsx';
 //@ts-ignore
 import "./css/root.css";
 import { BrowserRouter, Route, Routes, Outlet } from 'react-router-dom';
@@ -16,11 +17,13 @@ function LayoutWithNav() {
 
             <div id="view">
                 <Outlet />
+
+                <div id="footer">
+                    <Footer />
+                </div>
             </div>
+
             
-            <div id="footer">
-                <Footer />
-            </div>
         </>
     );
 }
@@ -45,6 +48,7 @@ function Root() {
                 <Route element={<LayoutWithNav />}>
                     <Route path="/tshirts" element={<Tshirts />} />
                     <Route path="/tattoos" element={<Tattoos/>} />
+                    <Route path="/slider" element={<SliderPage />} />
                 </Route>
             </Routes>
         </BrowserRouter>

@@ -15,8 +15,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px 5%;
     border-top: 1px solid #94692d;
 }
 
@@ -95,4 +94,37 @@ body {
 #view {
     padding: 0 5%;
     padding-top: 100px;
+}
+
+.item-displayer {
+    display: grid;
+    align-items: stretch;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.item {
+    width: calc(30vw - 30px);
+    background-color: black;
+    border-radius: 10px;
+    border: solid 1px #94692D;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.item img {
+    width: 90%;
+    height: auto;
+}
+
+.item h3 {
+    color:#94692D;
+}
+
+.row {
+    overflow-x: auto;
 }
