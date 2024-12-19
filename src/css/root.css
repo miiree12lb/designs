@@ -137,6 +137,18 @@ body {
     cursor: pointer;
 }
 
+.item:hover {
+    background-color: #292929;
+}
+
+.item.no-opener {
+    cursor:default;
+}
+
+.item.no-opener:hover {
+    background-color: black;
+}
+
 .item img {
     width: 90%;
     height: auto;

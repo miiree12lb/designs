@@ -44,11 +44,11 @@ export default function Navbar() {
                         isActive={(match) => match?.isExact}
                     >
                         {({ isActive }) => (
-                            <img className='nav-icon' src={getNavIcon(isActive, home, home_selected)} alt="home" />
+                            <img className='nav-icon' src={home} alt="home" />
                         )}
                     </NavLink>
                     <NavLink 
-                        to="/tshirts" 
+                        to="/designs/tshirts" 
                         className="nav-icon"
                         isActive={(match) => match?.isExact}
                     >
@@ -57,7 +57,7 @@ export default function Navbar() {
                         )}
                     </NavLink>
                     <NavLink 
-                        to="/tattoos" 
+                        to="/designs/tattoos" 
                         className="nav-icon"
                         isActive={(match) => match?.isExact}
                     >
@@ -66,7 +66,7 @@ export default function Navbar() {
                         )}
                     </NavLink>
                     <NavLink 
-                        to="/insta" 
+                        to="/designs/insta" 
                         className="nav-icon"
                         isActive={(match) => match?.isExact}
                     >
