@@ -13,7 +13,7 @@ export default function Tattoos() {
     ];
 
     const openSlider = (tattoo) => {
-        navigate("/designs/slider", {state: {images: tattoo.imgs, title: tattoo.title}});
+        navigate("/slider", {state: {images: tattoo.imgs, title: tattoo.title}});
     }
 
     return (

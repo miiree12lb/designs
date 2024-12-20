@@ -9,22 +9,18 @@ import SliderPage from './SliderPage.jsx';
 import Insta from "./InstaCovers.jsx"
 //@ts-ignore
 import "./css/root.css";
-import { BrowserRouter, Route, Routes, Outlet } from 'react-router-dom';
+import { HashRouter, Route, Routes, Outlet } from 'react-router-dom';
 
 function LayoutWithNav() {
     return (
         <>
             <Navbar />
-
             <div id="view">
                 <Outlet />
-
                 <div id="footer">
                     <Footer />
                 </div>
             </div>
-
-            
         </>
     );
 }
@@ -42,18 +38,17 @@ function LayoutWithoutNav() {
 
 function Root() {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Routes>
-                <Route path="/designs/" element={<LayoutWithoutNav />} />
-                
+                <Route path="/" element={<LayoutWithoutNav />} />
                 <Route element={<LayoutWithNav />}>
-                    <Route path="/designs/tshirts" element={<Tshirts />} />
-                    <Route path="/designs/tattoos" element={<Tattoos/>} />
-                    <Route path="/designs/slider" element={<SliderPage />} />
-                    <Route path="/designs/insta" element={<Insta />} />
+                    <Route path="tshirts" element={<Tshirts />} />
+                    <Route path="tattoos" element={<Tattoos />} />
+                    <Route path="slider" element={<SliderPage />} />
+                    <Route path="insta" element={<Insta />} />
                 </Route>
             </Routes>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 

@@ -29,17 +29,17 @@ export default function Navbar() {
 
             {!isMobile && (
                 <>
-                    <Link to="/designs">Home</Link>
-                    <Link to="/designs/tshirts">T-Shirts</Link>
-                    <Link to="/designs/tattoos">Tattoos</Link>
-                    <Link to="/designs/insta">Insta Covers</Link>
+                    <Link to="/">Home</Link>
+                    <Link to="/tshirts">T-Shirts</Link>
+                    <Link to="/tattoos">Tattoos</Link>
+                    <Link to="/insta">Insta Covers</Link>
                 </>
             )}
 
             {isMobile && (
                 <>
                     <NavLink 
-                        to="/designs" 
+                        to="/" 
                         className="nav-icon"
                         isActive={(match) => match?.isExact}
                     >
@@ -48,7 +48,7 @@ export default function Navbar() {
                         )}
                     </NavLink>
                     <NavLink 
-                        to="/designs/tshirts" 
+                        to="/tshirts" 
                         className="nav-icon"
                         isActive={(match) => match?.isExact}
                     >
@@ -57,7 +57,7 @@ export default function Navbar() {
                         )}
                     </NavLink>
                     <NavLink 
-                        to="/designs/tattoos" 
+                        to="/tattoos" 
                         className="nav-icon"
                         isActive={(match) => match?.isExact}
                     >
@@ -66,7 +66,7 @@ export default function Navbar() {
                         )}
                     </NavLink>
                     <NavLink 
-                        to="/designs/insta" 
+                        to="/insta" 
                         className="nav-icon"
                         isActive={(match) => match?.isExact}
                     >

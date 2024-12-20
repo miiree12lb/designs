@@ -16,13 +16,13 @@ export default function Tshirts() {
     const navigate = useNavigate();
 
     const tshirts = [
-        { title: "miiree12lb", imgs: [miiree12lbImg, miiree12lbImg2] },
-        { title: "Science Fellows", imgs: [scienceImg, scienceImg2, scienceImg3, scienceImg4] },
         { title: "Route 66", imgs: [route66] },
+        { title: "Science Fellows", imgs: [scienceImg, scienceImg2, scienceImg3, scienceImg4] },
+        { title: "miiree12lb", imgs: [miiree12lbImg, miiree12lbImg2] },
     ];
 
     const openSlider = (tshirt) => {
-        navigate("/designs/slider", { state: { images: tshirt.imgs, title: tshirt.title } });
+        navigate("/slider", { state: { images: tshirt.imgs, title: tshirt.title } });
     };
 
     return (
