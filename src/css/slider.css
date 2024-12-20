@@ -28,6 +28,7 @@
 .prev,
 .next {
     cursor: pointer;
+    position: absolute;
     top: 50%;
     width: auto;
     padding: 16px;
@@ -35,6 +36,9 @@
     color: white;
     font-weight: bold;
     font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
     color: #94692D;
 }
 
@@ -63,9 +67,6 @@
     display:flex;
     flex-direction: row;
     height:100px;
-    width: 90vw;
-    justify-content: left;
-    overflow-x: hidden;
 }
 
 .row:after {
@@ -76,11 +77,14 @@
 
 .column {
     flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 100%;
 }
 
 .column img {
-    height: 90%;
+    height: 100px;
     width: auto;
     object-fit: contain; 
 }
@@ -92,41 +96,4 @@
 .active,
 .demo:hover {
     opacity: 1;
-}
-
-.active {
-    border: 2px solid #94692D;
-}
-
-.slider-page {
-    display: flex;
-    flex-direction: row;
-    gap: 30px;
-}
-
-.slider-container-container {
-    width: 90vw;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-}
-
-@media only screen and (max-width: 800px) {
-    .slider-container-container {
-        width: 80vw;
-    }
-
-    .row {
-        max-width: 80vw;
-        overflow-y: auto;
-    }
-    
-    .slider-page {
-        flex-direction: column;
-    }
-
-    .img-holder, .img-zoom-result {
-        display: none;
-    }
 }
