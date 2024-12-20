@@ -1,96 +1,72 @@
-* {
-    box-sizing: border-box;
-}
-
-.slider-image {
-    display: none;
-}
-
-.slider-image.show {
-    display: block;
-    height: 50vh;
-    width: 100%; 
-    margin-bottom: 20px;
-}
-
-.slider-image.show img {
-    height: 100%;  
-    width: auto;   
-    object-fit: contain; 
-}
-
-
-.cursor {
-    cursor: pointer;
-}
-
-
-.prev,
-.next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    padding: 16px;
-    margin-top: -50px;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-    -webkit-user-select: none;
-    color: #94692D;
-}
-
-.next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-}
-.prev {
-    left: 0;
-}
-
-.prev:hover,
-.next:hover {
-    color: #FF4136;
-}
-
-.caption-container {
-    text-align: center;
-    background-color: #222;
-    padding: 2px 16px;
-    color: white;
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
 }
 
 .row {
-    overflow-x: auto;
-    display:flex;
+    display: flex;
     flex-direction: row;
-    height:100px;
-}
-
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-.column {
-    flex-shrink: 0;
-    height: 100%;
-}
-
-.column img {
     height: 100px;
-    width: auto;
-    object-fit: contain; 
+    overflow-x: auto;
+    gap: 0;
+    align-items: center;
 }
 
-.demo {
+.demo.cursor {
+    object-fit: contain;
+    flex-shrink: 0;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+.slider-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.slider-img {
+    width: 50vw;
+    height: calc(50vw * 9 / 16); 
+    background-color: black;
+}
+
+.slider-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.demo.cursor {
     opacity: 0.6;
+    height: 99px;
 }
 
-.active,
-.demo:hover {
+.demo.cursor.active {
+    border: solid 1px #94692D;
+}
+
+.demo.cursor:hover, .demo.cursor.active {
     opacity: 1;
+}
+
+.prev, .next {
+    cursor: pointer;
+    font-size: large;
+    color: #94692D;
+}
+
+.prev:hover, .next:hover {
+    color: #FF4136;
+}
+
+@media only screen and (max-width: 800px) {
+    .slider-img {
+        height: 50vh;
+        width: calc(50vh * 9 / 16); 
+        background-color: black;
+    }
 }

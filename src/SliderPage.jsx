@@ -8,7 +8,6 @@ export default function Slider() {
   
   const [slideIndex, setSlideIndex] = useState(0);
 
-  // Function to go to next or previous slide
   const plusSlides = (n) => {
     let newIndex = slideIndex + n;
     if (newIndex >= images.length) newIndex = 0;
@@ -16,51 +15,44 @@ export default function Slider() {
     setSlideIndex(newIndex);
   };
 
-  // Function to select a specific slide
   const currentSlide = (n) => {
     setSlideIndex(n);
   };
 
   return (
-    <div>
+    <>
       <h2>{title}</h2>
-      <div className="slider-container">
-        {images.map((img, index) => (
-          <div
-            className={`slider-image ${index === slideIndex ? "show" : ""}`}
-            key={index}
+      <div className="container">
+        <div className="slider-container">
+          <a
+            className="prev"
+            onClick={() => plusSlides(-1)}
           >
-            <img src={img} alt={`Slide ${index + 1}`} style={{ width: "100%" }} />
+            &#10094;
+          </a>
+
+          <div className="slider-img">
+            <img src={images[slideIndex]} alt={`Slide ${slideIndex + 1}`} />
           </div>
-        ))}
-
-        <a
-          className="prev"
-          onClick={() => plusSlides(-1)}
-        >
-          &#10094;
-        </a>
-        <a
-          className="next"
-          onClick={() => plusSlides(1)}
-        >
-          &#10095;
-        </a>
-
+          
+          <a
+            className="next"
+            onClick={() => plusSlides(1)}
+          >
+            &#10095;
+          </a>
+        </div>
         <div className="row">
           {images.map((img, index) => (
-            <div className="column" key={index}>
-              <img
-                className={`demo cursor ${index === slideIndex ? "active" : ""}`}
-                src={img}
-                alt={`Thumbnail ${index + 1}`}
-                style={{ width: "100%" }}
-                onClick={() => currentSlide(index)}
-              />
-            </div>
+            <img
+              className={`demo cursor ${index === slideIndex ? "active" : ""}`}
+              src={img}
+              alt={`Thumbnail ${index + 1}`}
+              onClick={() => currentSlide(index)}
+            />
           ))}
         </div>
       </div>
-    </div>
+    </>
   );
 }
