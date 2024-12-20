@@ -65,6 +65,7 @@
     height:100px;
     width: 90vw;
     justify-content: left;
+    overflow-x: hidden;
 }
 
 .row:after {
@@ -75,14 +76,11 @@
 
 .column {
     flex-shrink: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     height: 100%;
 }
 
 .column img {
-    height: 100px;
+    height: 90%;
     width: auto;
     object-fit: contain; 
 }
@@ -115,8 +113,13 @@
 }
 
 @media only screen and (max-width: 800px) {
-    .slider-container-container,.row {
+    .slider-container-container {
         width: 80vw;
+    }
+
+    .row {
+        max-width: 80vw;
+        overflow-y: auto;
     }
     
     .slider-page {
