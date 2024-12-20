@@ -81,6 +81,7 @@ body {
     width: 100vw;
     align-items: center;
     height: 75px;
+    z-index: 1000;
 }
 
 #nav a {
