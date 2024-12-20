@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.c3906cfc.css",
-    "main.js": "/designs/static/js/main.b5e3165e.js",
+    "main.js": "/designs/static/js/main.dad55a45.js",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
     "static/media/science3.png": "/designs/static/media/science3.9adcf8de3df2f748f5d8.png",
@@ -17,7 +17,7 @@
     "static/media/twente.png": "/designs/static/media/twente.bb70155b149cff531692.png",
     "static/media/miiree12lb2.png": "/designs/static/media/miiree12lb2.de45e99a717eaa042318.png",
     "static/media/travel_cover.png": "/designs/static/media/travel_cover.aad18faea977df98e357.png",
-    "static/media/route66.png": "/designs/static/media/route66.82c2455c2dd5dda91140.png",
+    "static/media/route66.png": "/designs/static/media/route66.3b89548d4dc225c065be.png",
     "static/media/lmh_cover.png": "/designs/static/media/lmh_cover.8b12c207bcffd8d378cf.png",
     "static/media/nl_cover.png": "/designs/static/media/nl_cover.9c73192ab4682cb89cbe.png",
     "static/media/enjoy.png": "/designs/static/media/enjoy.be32a7cd1217c04bf5ec.png",
@@ -44,10 +44,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.c3906cfc.css.map": "/designs/static/css/main.c3906cfc.css.map",
-    "main.b5e3165e.js.map": "/designs/static/js/main.b5e3165e.js.map"
+    "main.dad55a45.js.map": "/designs/static/js/main.dad55a45.js.map"
   },
   "entrypoints": [
     "static/css/main.c3906cfc.css",
-    "static/js/main.b5e3165e.js"
+    "static/js/main.dad55a45.js"
   ]
 }
