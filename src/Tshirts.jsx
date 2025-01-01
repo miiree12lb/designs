@@ -9,6 +9,10 @@ import scienceImg4 from "./assets/images/tshirts/science4.png";
 
 import route66 from "./assets/images/tshirts/route66.png";
 
+import bcn from "./assets/images/tshirts/BCN.png";
+
+import gaudi from "./assets/images/tshirts/gaudi.png";
+
 import ItemDisplayer from "./ItemDisplayer.jsx";
 import { useNavigate } from "react-router-dom";
 
@@ -17,7 +21,9 @@ export default function Tshirts() {
 
     const tshirts = [
         { title: "Route 66", imgs: [route66] },
+        { title: "Bar Cel Ona", imgs: [bcn] },
         { title: "Science Fellows", imgs: [scienceImg, scienceImg2, scienceImg3, scienceImg4] },
+        //{ title: "BCN - Gaudí", imgs: [gaudi] },
         { title: "miiree12lb", imgs: [miiree12lbImg, miiree12lbImg2] },
     ];
 

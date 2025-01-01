@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.ae0ab7fe.css",
-    "main.js": "/designs/static/js/main.d38595d6.js",
+    "main.js": "/designs/static/js/main.95bab4e7.js",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
     "static/media/science3.png": "/designs/static/media/science3.9adcf8de3df2f748f5d8.png",
     "static/media/science.png": "/designs/static/media/science.29ee332a91d90e95a211.png",
+    "static/media/gaudi.png": "/designs/static/media/gaudi.654206084cd834804075.png",
     "static/media/science4.png": "/designs/static/media/science4.225cf96c75f305dd43a1.png",
+    "static/media/BCN.png": "/designs/static/media/BCN.fbafe1b1956766b15ca0.png",
     "static/media/enjoy3.png": "/designs/static/media/enjoy3.b78978f3e066f39367fd.png",
     "static/media/t-shirt-business-name-ideas.png": "/designs/static/media/t-shirt-business-name-ideas.53a06f5f85dfca0f12d6.png",
     "static/media/logo.png": "/designs/static/media/logo.76cf9eda8eea70c787d8.png",
@@ -44,10 +46,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.ae0ab7fe.css.map": "/designs/static/css/main.ae0ab7fe.css.map",
-    "main.d38595d6.js.map": "/designs/static/js/main.d38595d6.js.map"
+    "main.95bab4e7.js.map": "/designs/static/js/main.95bab4e7.js.map"
   },
   "entrypoints": [
     "static/css/main.ae0ab7fe.css",
-    "static/js/main.d38595d6.js"
+    "static/js/main.95bab4e7.js"
   ]
 }
