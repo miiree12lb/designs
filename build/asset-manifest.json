@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/designs/static/css/main.ae0ab7fe.css",
-    "main.js": "/designs/static/js/main.95bab4e7.js",
+    "main.css": "/designs/static/css/main.1af16dc4.css",
+    "main.js": "/designs/static/js/main.f572e864.js",
+    "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
     "static/media/science3.png": "/designs/static/media/science3.9adcf8de3df2f748f5d8.png",
     "static/media/science.png": "/designs/static/media/science.29ee332a91d90e95a211.png",
-    "static/media/gaudi.png": "/designs/static/media/gaudi.654206084cd834804075.png",
     "static/media/science4.png": "/designs/static/media/science4.225cf96c75f305dd43a1.png",
-    "static/media/BCN.png": "/designs/static/media/BCN.fbafe1b1956766b15ca0.png",
+    "static/media/nyc.png": "/designs/static/media/nyc.a8dc53723d5a14995ed5.png",
+    "static/media/BCN.png": "/designs/static/media/BCN.2be19d0abd2ab70e8ef7.png",
+    "static/media/gaudi2.png": "/designs/static/media/gaudi2.2883cd6c71cd415a64f6.png",
+    "static/media/gaudi3.png": "/designs/static/media/gaudi3.c5f4fcce11493b74f606.png",
     "static/media/enjoy3.png": "/designs/static/media/enjoy3.b78978f3e066f39367fd.png",
     "static/media/t-shirt-business-name-ideas.png": "/designs/static/media/t-shirt-business-name-ideas.53a06f5f85dfca0f12d6.png",
     "static/media/logo.png": "/designs/static/media/logo.76cf9eda8eea70c787d8.png",
@@ -22,6 +25,7 @@
     "static/media/route66.png": "/designs/static/media/route66.3b89548d4dc225c065be.png",
     "static/media/lmh_cover.png": "/designs/static/media/lmh_cover.8b12c207bcffd8d378cf.png",
     "static/media/nl_cover.png": "/designs/static/media/nl_cover.9c73192ab4682cb89cbe.png",
+    "static/media/BCN3.png": "/designs/static/media/BCN3.21a5e1ecf01a4700845b.png",
     "static/media/enjoy.png": "/designs/static/media/enjoy.be32a7cd1217c04bf5ec.png",
     "static/media/irl_cover.png": "/designs/static/media/irl_cover.6d100238571d91cda39a.png",
     "static/media/me_cover.png": "/designs/static/media/me_cover.57324a93b6b5f87e2cd7.png",
@@ -41,15 +45,16 @@
     "static/media/escala_cover.png": "/designs/static/media/escala_cover.790b6c4b172bd2fb772e.png",
     "static/media/tattoos.png": "/designs/static/media/tattoos.dc7811b6e6068650627a.png",
     "static/media/WI_cover.png": "/designs/static/media/WI_cover.bc8c3b5267ef7719bc88.png",
+    "static/media/BCN2.png": "/designs/static/media/BCN2.1836d3fec6575dc6b784.png",
     "static/media/tatto.png": "/designs/static/media/tatto.c70854cdeb89c4b4161f.png",
     "static/media/instagram.svg": "/designs/static/media/instagram.f1b93ec68f3f311e5c68d6085a9b479c.svg",
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
-    "main.ae0ab7fe.css.map": "/designs/static/css/main.ae0ab7fe.css.map",
-    "main.95bab4e7.js.map": "/designs/static/js/main.95bab4e7.js.map"
+    "main.1af16dc4.css.map": "/designs/static/css/main.1af16dc4.css.map",
+    "main.f572e864.js.map": "/designs/static/js/main.f572e864.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae0ab7fe.css",
-    "static/js/main.95bab4e7.js"
+    "static/css/main.1af16dc4.css",
+    "static/js/main.f572e864.js"
   ]
 }
