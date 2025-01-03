@@ -14,10 +14,16 @@ import bcn2 from './assets/images/tshirts/BCN2.png';
 import bcn3 from './assets/images/tshirts/BCN3.png';
 
 import nyc from "./assets/images/tshirts/nyc.png";
+import nyc2 from './assets/images/tshirts/nyc2.png';
+import nyc3 from './assets/images/tshirts/nyc3.png';
 
 import gaudi from "./assets/images/tshirts/gaudi.png";
 import gaudi2 from "./assets/images/tshirts/gaudi2.png";
 import gaudi3 from "./assets/images/tshirts/gaudi3.png";
+
+import adventure from "./assets/images/tshirts/adventure.png";
+import adventure2 from "./assets/images/tshirts/adventure2.png";
+import adventure3 from "./assets/images/tshirts/adventure3.png";
 
 import ItemDisplayer from "./ItemDisplayer.jsx";
 import { useNavigate } from "react-router-dom";
@@ -27,10 +33,10 @@ export default function Tshirts() {
 
     const tshirts = [
         { title: "Bar Cel Ona", imgs: [bcn, bcn2, bcn3] },
-        { title: "NYC", imgs: [nyc]},
+        { title: "NYC", imgs: [nyc, nyc2, nyc3] },
         { title: "Route 66", imgs: [route66] },
-        
         { title: "Science Fellows", imgs: [scienceImg, scienceImg2, scienceImg3, scienceImg4] },
+        { title: "Adventure", imgs: [adventure, adventure2, adventure3] },
         { title: "BCN - Gaudí", imgs: [gaudi, gaudi2, gaudi3] },
         { title: "miiree12lb", imgs: [miiree12lbImg, miiree12lbImg2] },
     ];
