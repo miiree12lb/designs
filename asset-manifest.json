@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.1af16dc4.css",
-    "main.js": "/designs/static/js/main.e7f2a0f3.js",
+    "main.js": "/designs/static/js/main.40266afd.js",
     "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
@@ -28,6 +28,7 @@
     "static/media/nyc3.png": "/designs/static/media/nyc3.74a6d0d13ee201423e18.png",
     "static/media/adventure3.png": "/designs/static/media/adventure3.051b7c4072f8edb37f6c.png",
     "static/media/route66.png": "/designs/static/media/route66.3b89548d4dc225c065be.png",
+    "static/media/lionking.png": "/designs/static/media/lionking.b5aa60e47cdaee7fec7f.png",
     "static/media/lmh_cover.png": "/designs/static/media/lmh_cover.8b12c207bcffd8d378cf.png",
     "static/media/nl_cover.png": "/designs/static/media/nl_cover.9c73192ab4682cb89cbe.png",
     "static/media/BCN3.png": "/designs/static/media/BCN3.21a5e1ecf01a4700845b.png",
@@ -56,10 +57,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.1af16dc4.css.map": "/designs/static/css/main.1af16dc4.css.map",
-    "main.e7f2a0f3.js.map": "/designs/static/js/main.e7f2a0f3.js.map"
+    "main.40266afd.js.map": "/designs/static/js/main.40266afd.js.map"
   },
   "entrypoints": [
     "static/css/main.1af16dc4.css",
-    "static/js/main.e7f2a0f3.js"
+    "static/js/main.40266afd.js"
   ]
 }
