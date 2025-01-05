@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/designs/static/css/main.1af16dc4.css",
-    "main.js": "/designs/static/js/main.40266afd.js",
+    "main.css": "/designs/static/css/main.48f6b72b.css",
+    "main.js": "/designs/static/js/main.17ba6054.js",
     "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
@@ -9,9 +9,11 @@
     "static/media/science.png": "/designs/static/media/science.29ee332a91d90e95a211.png",
     "static/media/nyc.png": "/designs/static/media/nyc.07a215806a2a4134da09.png",
     "static/media/adventure.png": "/designs/static/media/adventure.7435da641cd00483afab.png",
+    "static/media/kiss.png": "/designs/static/media/kiss.e13ece3aa4c9638b64ac.png",
     "static/media/science4.png": "/designs/static/media/science4.225cf96c75f305dd43a1.png",
     "static/media/BCN.png": "/designs/static/media/BCN.2be19d0abd2ab70e8ef7.png",
     "static/media/gaudi2.png": "/designs/static/media/gaudi2.2883cd6c71cd415a64f6.png",
+    "static/media/kiss2.png": "/designs/static/media/kiss2.422178b3011d06f9f3f1.png",
     "static/media/gaudi3.png": "/designs/static/media/gaudi3.c5f4fcce11493b74f606.png",
     "static/media/enjoy3.png": "/designs/static/media/enjoy3.b78978f3e066f39367fd.png",
     "static/media/t-shirt-business-name-ideas.png": "/designs/static/media/t-shirt-business-name-ideas.53a06f5f85dfca0f12d6.png",
@@ -24,12 +26,14 @@
     "static/media/twente.png": "/designs/static/media/twente.bb70155b149cff531692.png",
     "static/media/adventure2.png": "/designs/static/media/adventure2.ff13f36612ca64c56443.png",
     "static/media/miiree12lb2.png": "/designs/static/media/miiree12lb2.de45e99a717eaa042318.png",
+    "static/media/kiss3.png": "/designs/static/media/kiss3.24ab580256ac0055591d.png",
     "static/media/travel_cover.png": "/designs/static/media/travel_cover.aad18faea977df98e357.png",
     "static/media/nyc3.png": "/designs/static/media/nyc3.74a6d0d13ee201423e18.png",
     "static/media/adventure3.png": "/designs/static/media/adventure3.051b7c4072f8edb37f6c.png",
     "static/media/route66.png": "/designs/static/media/route66.3b89548d4dc225c065be.png",
     "static/media/lionking.png": "/designs/static/media/lionking.b5aa60e47cdaee7fec7f.png",
     "static/media/lmh_cover.png": "/designs/static/media/lmh_cover.8b12c207bcffd8d378cf.png",
+    "static/media/frog.png": "/designs/static/media/frog.45688790dc83dc61a2a9.png",
     "static/media/nl_cover.png": "/designs/static/media/nl_cover.9c73192ab4682cb89cbe.png",
     "static/media/BCN3.png": "/designs/static/media/BCN3.21a5e1ecf01a4700845b.png",
     "static/media/enjoy.png": "/designs/static/media/enjoy.be32a7cd1217c04bf5ec.png",
@@ -56,11 +60,11 @@
     "static/media/instagram.svg": "/designs/static/media/instagram.f1b93ec68f3f311e5c68d6085a9b479c.svg",
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
-    "main.1af16dc4.css.map": "/designs/static/css/main.1af16dc4.css.map",
-    "main.40266afd.js.map": "/designs/static/js/main.40266afd.js.map"
+    "main.48f6b72b.css.map": "/designs/static/css/main.48f6b72b.css.map",
+    "main.17ba6054.js.map": "/designs/static/js/main.17ba6054.js.map"
   },
   "entrypoints": [
-    "static/css/main.1af16dc4.css",
-    "static/js/main.40266afd.js"
+    "static/css/main.48f6b72b.css",
+    "static/js/main.17ba6054.js"
   ]
 }
