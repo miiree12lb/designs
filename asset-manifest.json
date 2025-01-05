@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.48f6b72b.css",
-    "main.js": "/designs/static/js/main.17ba6054.js",
+    "main.js": "/designs/static/js/main.73e6e278.js",
     "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
@@ -10,6 +10,7 @@
     "static/media/nyc.png": "/designs/static/media/nyc.07a215806a2a4134da09.png",
     "static/media/adventure.png": "/designs/static/media/adventure.7435da641cd00483afab.png",
     "static/media/kiss.png": "/designs/static/media/kiss.e13ece3aa4c9638b64ac.png",
+    "static/media/wander.png": "/designs/static/media/wander.022e0ba96221f042f35e.png",
     "static/media/science4.png": "/designs/static/media/science4.225cf96c75f305dd43a1.png",
     "static/media/BCN.png": "/designs/static/media/BCN.2be19d0abd2ab70e8ef7.png",
     "static/media/gaudi2.png": "/designs/static/media/gaudi2.2883cd6c71cd415a64f6.png",
@@ -29,6 +30,7 @@
     "static/media/kiss3.png": "/designs/static/media/kiss3.24ab580256ac0055591d.png",
     "static/media/travel_cover.png": "/designs/static/media/travel_cover.aad18faea977df98e357.png",
     "static/media/nyc3.png": "/designs/static/media/nyc3.74a6d0d13ee201423e18.png",
+    "static/media/wander2.png": "/designs/static/media/wander2.f28e27c7812bbaa4d12c.png",
     "static/media/adventure3.png": "/designs/static/media/adventure3.051b7c4072f8edb37f6c.png",
     "static/media/route66.png": "/designs/static/media/route66.3b89548d4dc225c065be.png",
     "static/media/lionking.png": "/designs/static/media/lionking.b5aa60e47cdaee7fec7f.png",
@@ -41,6 +43,7 @@
     "static/media/me_cover.png": "/designs/static/media/me_cover.57324a93b6b5f87e2cd7.png",
     "static/media/fcb.png": "/designs/static/media/fcb.f8ca85e7037f1419034d.png",
     "static/media/essyi_cover.png": "/designs/static/media/essyi_cover.bf268ecf738a82f8a16f.png",
+    "static/media/wander3.png": "/designs/static/media/wander3.4fdfdbbb0096ec39c8d9.png",
     "static/media/earth.png": "/designs/static/media/earth.2359b0e3c510b570ed53.png",
     "static/media/berlin_cover.png": "/designs/static/media/berlin_cover.818ee645b99edfeb6a7f.png",
     "static/media/mountain_cover.png": "/designs/static/media/mountain_cover.48db24b2f15ace41d683.png",
@@ -61,10 +64,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.48f6b72b.css.map": "/designs/static/css/main.48f6b72b.css.map",
-    "main.17ba6054.js.map": "/designs/static/js/main.17ba6054.js.map"
+    "main.73e6e278.js.map": "/designs/static/js/main.73e6e278.js.map"
   },
   "entrypoints": [
     "static/css/main.48f6b72b.css",
-    "static/js/main.17ba6054.js"
+    "static/js/main.73e6e278.js"
   ]
 }
