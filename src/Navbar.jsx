@@ -29,10 +29,10 @@ export default function Navbar() {
 
             {!isMobile && (
                 <>
-                    <Link to="/">Home</Link>
-                    <Link to="/tshirts">T-Shirts</Link>
-                    <Link to="/tattoos">Tattoos</Link>
-                    <Link to="/insta">Insta Covers</Link>
+                    <NavLink to="/" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>Home</NavLink>
+                    <NavLink to="/tshirts" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>T-Shirts</NavLink>
+                    <NavLink to="/tattoos" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>Tattoos</NavLink>
+                    <NavLink to="/insta" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>Insta Covers</NavLink>
                 </>
             )}
 

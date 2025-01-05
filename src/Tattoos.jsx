@@ -7,6 +7,8 @@ import enjoyImg3 from "./assets/images/tattoos/enjoy3.png";
 
 import lionking from "./assets/images/tattoos/lionking.png";
 
+import frog from "./assets/images/tattoos/frog.png";
+
 import ItemDisplayer from "./ItemDisplayer";
 
 export default function Tattoos() {
@@ -15,6 +17,7 @@ export default function Tattoos() {
     const tattoos = [
         {title: "enjoy being while becoming", imgs: [enjoyImg, enjoyImg2, enjoyImg3]},
         {title: "Lion King", imgs: [lionking]},
+        {title: "Jumping Frog", imgs: [frog]}
     ];
 
     const openSlider = (tattoo) => {

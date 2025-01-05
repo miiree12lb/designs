@@ -25,6 +25,10 @@ import adventure from "./assets/images/tshirts/adventure.png";
 import adventure2 from "./assets/images/tshirts/adventure2.png";
 import adventure3 from "./assets/images/tshirts/adventure3.png";
 
+import kiss from "./assets/images/tshirts/kiss.png";
+import kiss2 from "./assets/images/tshirts/kiss2.png";
+import kiss3 from "./assets/images/tshirts/kiss3.png";
+
 import ItemDisplayer from "./ItemDisplayer.jsx";
 import { useNavigate } from "react-router-dom";
 
@@ -34,9 +38,10 @@ export default function Tshirts() {
     const tshirts = [
         { title: "Bar Cel Ona", imgs: [bcn, bcn2, bcn3] },
         { title: "NYC", imgs: [nyc, nyc2, nyc3] },
-        { title: "Route 66", imgs: [route66] },
+        { title: "Keep it simple", imgs: [kiss, kiss2, kiss3]},
         { title: "Science Fellows", imgs: [scienceImg, scienceImg2, scienceImg3, scienceImg4] },
         { title: "Adventure", imgs: [adventure, adventure2, adventure3] },
+        { title: "Route 66", imgs: [route66] },
         { title: "BCN - Gaudí", imgs: [gaudi, gaudi2, gaudi3] },
         { title: "miiree12lb", imgs: [miiree12lbImg, miiree12lbImg2] },
     ];

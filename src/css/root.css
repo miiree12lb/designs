@@ -84,14 +84,26 @@ body {
     z-index: 1000;
 }
 
-#nav a {
+.inactive-link {
     color: #94692D;
     text-decoration: none;
     font-size: large;
+    padding: 10px;
 }
 
-#nav a:hover {
-    color: #FF4136;
+.inactive-link:hover {
+    background-color: #151515;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.active-link {
+    background-color: #94692D;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .chip {
