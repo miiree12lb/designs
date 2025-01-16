@@ -10,6 +10,7 @@ import Insta from "./InstaCovers.jsx"
 //@ts-ignore
 import "./css/root.css";
 import { HashRouter, Route, Routes, Outlet } from 'react-router-dom';
+import Caps from './Caps.jsx';
 
 function LayoutWithNav() {
     return (
@@ -43,6 +44,7 @@ function Root() {
                 <Route path="/" element={<LayoutWithoutNav />} />
                 <Route element={<LayoutWithNav />}>
                     <Route path="tshirts" element={<Tshirts />} />
+                    <Route path="caps" element={<Caps />} />
                     <Route path="tattoos" element={<Tattoos />} />
                     <Route path="slider" element={<SliderPage />} />
                     <Route path="insta" element={<Insta />} />

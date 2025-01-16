@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import tshirtCover from "./assets/images/covers/t-shirt-business-name-ideas.png";
 import tattooCover from "./assets/images/covers/tattoos.png";
 import insta from "./assets/images/covers/insta.png"
+import capsCover from "./assets/images/covers/caps.png";
 
 const isAppleDevice = () => {
     return /iPhone|iPad|iPod|Macintosh/i.test(navigator.userAgent);
@@ -19,6 +20,7 @@ export default function Home() {
 
     const parallax_contents = [
         { title: "T-shirts", img: tshirtCover, link: "/tshirts" },
+        { title: "Caps", img: capsCover, link: "/caps" },
         { title: "Tattoos", img: tattooCover, link: "/tattoos" },
         { title: "Insta Covers", img: insta, link: "/insta" },
     ];

@@ -4,6 +4,7 @@ import { Link, NavLink } from 'react-router-dom';
 import logo from "./assets/images/logo.png";
 import home from "./assets/images/nav/home.png";
 import tshirt from "./assets/images/nav/tshirt.png";
+import caps from "./assets/images/nav/caps.png";
 import tattoo from "./assets/images/nav/tatto.png";
 import insta from "./assets/images/nav/insta.png";
 
@@ -11,6 +12,7 @@ import home_selected from "./assets/images/nav/home_selected.png";
 import tshirt_selected from "./assets/images/nav/tshirt_selected.png";
 import tattoo_selected from "./assets/images/nav/tatto_selected.png";
 import insta_selected from "./assets/images/nav/insta_selected.png";
+import cap_selected from "./assets/images/nav/caps_selected.png";
 
 export default function Navbar() {
     const isMobile = useMediaQuery({ query: '(max-width: 800px)' });
@@ -31,6 +33,7 @@ export default function Navbar() {
                 <>
                     <NavLink to="/" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>Home</NavLink>
                     <NavLink to="/tshirts" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>T-Shirts</NavLink>
+                    <NavLink to="/caps" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>Caps</NavLink>
                     <NavLink to="/tattoos" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>Tattoos</NavLink>
                     <NavLink to="/insta" className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}>Insta Covers</NavLink>
                 </>
@@ -54,6 +57,15 @@ export default function Navbar() {
                     >
                         {({ isActive }) => (
                             <img className='nav-icon' src={getNavIcon(isActive, tshirt, tshirt_selected)} alt="tshirts" />
+                        )}
+                    </NavLink>
+                    <NavLink 
+                        to="/caps" 
+                        className="nav-icon"
+                        isActive={(match) => match?.isExact}
+                    >
+                        {({ isActive }) => (
+                            <img className='nav-icon' src={getNavIcon(isActive, caps, cap_selected)} alt="tshirts" />
                         )}
                     </NavLink>
                     <NavLink 

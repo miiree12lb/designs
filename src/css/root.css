@@ -186,4 +186,19 @@ body {
     .item {
         width: 85vw;
     }
+
+    .chip img {
+        height: 50px;
+        width: 50px;
+        margin: -5px 5px 0 -25px;
+    }
+
+    .chip {
+        padding: 0 20px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 25px;
+        align-items: center;
+        font-size: 3vw;
+    }
 }
