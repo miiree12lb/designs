@@ -5,6 +5,9 @@ import nasa from "./assets/images/caps/nasa.png";
 import noot from "./assets/images/caps/noot.png";
 import travel from "./assets/images/caps/travel.png";
 import route from "./assets/images/caps/route.png";
+import astronaut from "./assets/images/caps/astronaut.png";
+import beach from "./assets/images/caps/beach.png";
+import wave from "./assets/images/caps/wave.png";
 
 export default function Caps() {
     const navigate = useNavigate();
@@ -13,6 +16,9 @@ export default function Caps() {
         { title: "NASA", imgs: [nasa] },
         { title: "Noot Noot", imgs: [noot]},
         { title: "Travel", imgs: [travel] },
+        { title: "Astronaut", imgs: [astronaut] },
+        { title: "Beach", imgs: [beach] },
+        { title: "Wave", imgs: [wave] },
         { title: "Route 66", imgs: [route] },
     ];
 
