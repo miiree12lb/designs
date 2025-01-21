@@ -37,6 +37,7 @@ import mountain from "./assets/images/tshirts/mountain.png";
 import mountain2 from "./assets/images/tshirts/mountain2.png";
 
 import space from "./assets/images/tshirts/space.png";
+import woody from "./assets/images/tshirts/woody.png";
 
 import ItemDisplayer from "./ItemDisplayer.jsx";
 import { useNavigate } from "react-router-dom";
@@ -52,6 +53,7 @@ export default function Tshirts() {
         { title: "Adventure", imgs: [adventure, adventure2, adventure3] },
         { title: "Not all who wander are lost", imgs: [wander, wander2, wander3]},
         { title: "Give Me Space", imgs: [space] },
+        { title: "Woody", imgs: [woody] },
         { title: "Route 66", imgs: [route66] },
         { title: "Mountain", imgs: [mountain, mountain2]},
         { title: "BCN - Gaudí", imgs: [gaudi, gaudi2, gaudi3] },

@@ -8,6 +8,7 @@ import route from "./assets/images/caps/route.png";
 import astronaut from "./assets/images/caps/astronaut.png";
 import beach from "./assets/images/caps/beach.png";
 import wave from "./assets/images/caps/wave.png";
+import explorer from "./assets/images/caps/explorer.png";
 
 export default function Caps() {
     const navigate = useNavigate();
@@ -19,6 +20,7 @@ export default function Caps() {
         { title: "Astronaut", imgs: [astronaut] },
         { title: "Beach", imgs: [beach] },
         { title: "Wave", imgs: [wave] },
+        { title: "Explorer", imgs: [explorer] },
         { title: "Route 66", imgs: [route] },
     ];
 
