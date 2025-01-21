@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.4377a784.css",
-    "main.js": "/designs/static/js/main.3b902917.js",
+    "main.js": "/designs/static/js/main.f6d14910.js",
     "static/media/mountain.png": "/designs/static/media/mountain.3e5d2455d079b36c37fe.png",
     "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
@@ -11,13 +11,16 @@
     "static/media/travel.png": "/designs/static/media/travel.3afb5b48f4849d8ffa55.png",
     "static/media/nyc.png": "/designs/static/media/nyc.07a215806a2a4134da09.png",
     "static/media/adventure.png": "/designs/static/media/adventure.7435da641cd00483afab.png",
+    "static/media/explorer.png": "/designs/static/media/explorer.c3b542a0d1e586f928d3.png",
     "static/media/kiss.png": "/designs/static/media/kiss.e13ece3aa4c9638b64ac.png",
     "static/media/wander.png": "/designs/static/media/wander.022e0ba96221f042f35e.png",
     "static/media/wave.png": "/designs/static/media/wave.71a42aaa2dd93f8ac412.png",
     "static/media/toyStory.png": "/designs/static/media/toyStory.bf50e3f11906ea5f82c0.png",
     "static/media/science4.png": "/designs/static/media/science4.225cf96c75f305dd43a1.png",
     "static/media/nasa.png": "/designs/static/media/nasa.efe9cb53e985201f9f78.png",
+    "static/media/messi2.png": "/designs/static/media/messi2.3da8e8a00ee083097a7b.png",
     "static/media/noot.png": "/designs/static/media/noot.87d394542e5116a5d379.png",
+    "static/media/messi.png": "/designs/static/media/messi.cdeb5d93e076a3d58eec.png",
     "static/media/beach.png": "/designs/static/media/beach.51530fcc9168cf700541.png",
     "static/media/BCN.png": "/designs/static/media/BCN.2be19d0abd2ab70e8ef7.png",
     "static/media/astronaut.png": "/designs/static/media/astronaut.211fe0b10e23b399c8ec.png",
@@ -39,6 +42,7 @@
     "static/media/twente.png": "/designs/static/media/twente.bb70155b149cff531692.png",
     "static/media/adventure2.png": "/designs/static/media/adventure2.ff13f36612ca64c56443.png",
     "static/media/miiree12lb2.png": "/designs/static/media/miiree12lb2.de45e99a717eaa042318.png",
+    "static/media/woody.png": "/designs/static/media/woody.72ad3accb627211e81aa.png",
     "static/media/kiss3.png": "/designs/static/media/kiss3.24ab580256ac0055591d.png",
     "static/media/travel_cover.png": "/designs/static/media/travel_cover.aad18faea977df98e357.png",
     "static/media/nyc3.png": "/designs/static/media/nyc3.74a6d0d13ee201423e18.png",
@@ -56,6 +60,7 @@
     "static/media/fcb.png": "/designs/static/media/fcb.f8ca85e7037f1419034d.png",
     "static/media/essyi_cover.png": "/designs/static/media/essyi_cover.bf268ecf738a82f8a16f.png",
     "static/media/wander3.png": "/designs/static/media/wander3.4fdfdbbb0096ec39c8d9.png",
+    "static/media/messi3.png": "/designs/static/media/messi3.c0ad97daeb1295c57944.png",
     "static/media/earth.png": "/designs/static/media/earth.2359b0e3c510b570ed53.png",
     "static/media/berlin_cover.png": "/designs/static/media/berlin_cover.818ee645b99edfeb6a7f.png",
     "static/media/mountain_cover.png": "/designs/static/media/mountain_cover.48db24b2f15ace41d683.png",
@@ -76,10 +81,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.4377a784.css.map": "/designs/static/css/main.4377a784.css.map",
-    "main.3b902917.js.map": "/designs/static/js/main.3b902917.js.map"
+    "main.f6d14910.js.map": "/designs/static/js/main.f6d14910.js.map"
   },
   "entrypoints": [
     "static/css/main.4377a784.css",
-    "static/js/main.3b902917.js"
+    "static/js/main.f6d14910.js"
   ]
 }
