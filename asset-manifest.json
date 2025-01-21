@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.4377a784.css",
-    "main.js": "/designs/static/js/main.f6d14910.js",
+    "main.js": "/designs/static/js/main.dde198f9.js",
     "static/media/mountain.png": "/designs/static/media/mountain.3e5d2455d079b36c37fe.png",
     "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
@@ -26,8 +26,10 @@
     "static/media/astronaut.png": "/designs/static/media/astronaut.211fe0b10e23b399c8ec.png",
     "static/media/gaudi2.png": "/designs/static/media/gaudi2.2883cd6c71cd415a64f6.png",
     "static/media/kiss2.png": "/designs/static/media/kiss2.422178b3011d06f9f3f1.png",
+    "static/media/woody1.png": "/designs/static/media/woody1.7320e347c6e4d5827c41.png",
     "static/media/gaudi3.png": "/designs/static/media/gaudi3.c5f4fcce11493b74f606.png",
     "static/media/route.png": "/designs/static/media/route.d4fbf9d5600542f0d804.png",
+    "static/media/space1.png": "/designs/static/media/space1.65d4a6857df65657c60e.png",
     "static/media/caps.png": "/designs/static/media/caps.fd7374681a793ad2fb25.png",
     "static/media/enjoy3.png": "/designs/static/media/enjoy3.b78978f3e066f39367fd.png",
     "static/media/t-shirt-business-name-ideas.png": "/designs/static/media/t-shirt-business-name-ideas.53a06f5f85dfca0f12d6.png",
@@ -81,10 +83,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.4377a784.css.map": "/designs/static/css/main.4377a784.css.map",
-    "main.f6d14910.js.map": "/designs/static/js/main.f6d14910.js.map"
+    "main.dde198f9.js.map": "/designs/static/js/main.dde198f9.js.map"
   },
   "entrypoints": [
     "static/css/main.4377a784.css",
-    "static/js/main.f6d14910.js"
+    "static/js/main.dde198f9.js"
   ]
 }
