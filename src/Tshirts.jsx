@@ -41,7 +41,10 @@ import messi2 from "./assets/images/tshirts/messi2.png";
 import messi3 from "./assets/images/tshirts/messi3.png";
 
 import space from "./assets/images/tshirts/space.png";
+import space1 from "./assets/images/tshirts/space1.png";
+
 import woody from "./assets/images/tshirts/woody.png";
+import woody1 from "./assets/images/tshirts/woody1.png";
 
 import ItemDisplayer from "./ItemDisplayer.jsx";
 import { useNavigate } from "react-router-dom";
@@ -57,8 +60,8 @@ export default function Tshirts() {
         { title: "Adventure", imgs: [adventure, adventure2, adventure3] },
         { title: "Not all who wander are lost", imgs: [wander, wander2, wander3]},
         { title: "Messi", imgs: [messi, messi2, messi3] },
-        { title: "Give Me Space", imgs: [space] },
-        { title: "Woody", imgs: [woody] },
+        { title: "Give Me Space", imgs: [space, space1] },
+        { title: "Woody", imgs: [woody, woody1] },
         { title: "Route 66", imgs: [route66] },
         { title: "Mountain", imgs: [mountain, mountain2]},
         { title: "BCN - Gaudí", imgs: [gaudi, gaudi2, gaudi3] },
