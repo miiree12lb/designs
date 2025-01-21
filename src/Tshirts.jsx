@@ -36,6 +36,10 @@ import wander3 from "./assets/images/tshirts/wander3.png";
 import mountain from "./assets/images/tshirts/mountain.png";
 import mountain2 from "./assets/images/tshirts/mountain2.png";
 
+import messi from "./assets/images/tshirts/messi.png";
+import messi2 from "./assets/images/tshirts/messi2.png";
+import messi3 from "./assets/images/tshirts/messi3.png";
+
 import space from "./assets/images/tshirts/space.png";
 import woody from "./assets/images/tshirts/woody.png";
 
@@ -52,6 +56,7 @@ export default function Tshirts() {
         { title: "Science Fellows", imgs: [scienceImg, scienceImg2, scienceImg3, scienceImg4] },
         { title: "Adventure", imgs: [adventure, adventure2, adventure3] },
         { title: "Not all who wander are lost", imgs: [wander, wander2, wander3]},
+        { title: "Messi", imgs: [messi, messi2, messi3] },
         { title: "Give Me Space", imgs: [space] },
         { title: "Woody", imgs: [woody] },
         { title: "Route 66", imgs: [route66] },

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.4377a784.css",
-    "main.js": "/designs/static/js/main.4055bba8.js",
+    "main.js": "/designs/static/js/main.f6d14910.js",
     "static/media/mountain.png": "/designs/static/media/mountain.3e5d2455d079b36c37fe.png",
     "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
@@ -18,7 +18,9 @@
     "static/media/toyStory.png": "/designs/static/media/toyStory.bf50e3f11906ea5f82c0.png",
     "static/media/science4.png": "/designs/static/media/science4.225cf96c75f305dd43a1.png",
     "static/media/nasa.png": "/designs/static/media/nasa.efe9cb53e985201f9f78.png",
+    "static/media/messi2.png": "/designs/static/media/messi2.3da8e8a00ee083097a7b.png",
     "static/media/noot.png": "/designs/static/media/noot.87d394542e5116a5d379.png",
+    "static/media/messi.png": "/designs/static/media/messi.cdeb5d93e076a3d58eec.png",
     "static/media/beach.png": "/designs/static/media/beach.51530fcc9168cf700541.png",
     "static/media/BCN.png": "/designs/static/media/BCN.2be19d0abd2ab70e8ef7.png",
     "static/media/astronaut.png": "/designs/static/media/astronaut.211fe0b10e23b399c8ec.png",
@@ -58,6 +60,7 @@
     "static/media/fcb.png": "/designs/static/media/fcb.f8ca85e7037f1419034d.png",
     "static/media/essyi_cover.png": "/designs/static/media/essyi_cover.bf268ecf738a82f8a16f.png",
     "static/media/wander3.png": "/designs/static/media/wander3.4fdfdbbb0096ec39c8d9.png",
+    "static/media/messi3.png": "/designs/static/media/messi3.c0ad97daeb1295c57944.png",
     "static/media/earth.png": "/designs/static/media/earth.2359b0e3c510b570ed53.png",
     "static/media/berlin_cover.png": "/designs/static/media/berlin_cover.818ee645b99edfeb6a7f.png",
     "static/media/mountain_cover.png": "/designs/static/media/mountain_cover.48db24b2f15ace41d683.png",
@@ -78,10 +81,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.4377a784.css.map": "/designs/static/css/main.4377a784.css.map",
-    "main.4055bba8.js.map": "/designs/static/js/main.4055bba8.js.map"
+    "main.f6d14910.js.map": "/designs/static/js/main.f6d14910.js.map"
   },
   "entrypoints": [
     "static/css/main.4377a784.css",
-    "static/js/main.4055bba8.js"
+    "static/js/main.f6d14910.js"
   ]
 }
