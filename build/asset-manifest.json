@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.4377a784.css",
-    "main.js": "/designs/static/js/main.2683dcb8.js",
+    "main.js": "/designs/static/js/main.5dc2d496.js",
     "static/media/mountain.png": "/designs/static/media/mountain.3e5d2455d079b36c37fe.png",
     "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
+    "static/media/route.png": "/designs/static/media/route.b8df0f184b50344d3721.png",
     "static/media/enjoy2.png": "/designs/static/media/enjoy2.5453a7ff7a6fc2dbffd3.png",
     "static/media/science2.png": "/designs/static/media/science2.f19669053cc9798325e1.png",
     "static/media/science3.png": "/designs/static/media/science3.9adcf8de3df2f748f5d8.png",
     "static/media/science.png": "/designs/static/media/science.29ee332a91d90e95a211.png",
-    "static/media/travel.png": "/designs/static/media/travel.3afb5b48f4849d8ffa55.png",
     "static/media/nyc.png": "/designs/static/media/nyc.07a215806a2a4134da09.png",
     "static/media/adventure.png": "/designs/static/media/adventure.7435da641cd00483afab.png",
     "static/media/explorer.png": "/designs/static/media/explorer.f7e30c5b4e8f4d13ce44.png",
@@ -22,13 +22,13 @@
     "static/media/messi2.png": "/designs/static/media/messi2.3da8e8a00ee083097a7b.png",
     "static/media/noot.png": "/designs/static/media/noot.87d394542e5116a5d379.png",
     "static/media/messi.png": "/designs/static/media/messi.cdeb5d93e076a3d58eec.png",
+    "static/media/travel.png": "/designs/static/media/travel.d89f704e18dd89dfe098.png",
     "static/media/BCN.png": "/designs/static/media/BCN.2be19d0abd2ab70e8ef7.png",
-    "static/media/astronaut.png": "/designs/static/media/astronaut.211fe0b10e23b399c8ec.png",
+    "static/media/astronaut.png": "/designs/static/media/astronaut.e4609db751fb67b6f64e.png",
     "static/media/gaudi2.png": "/designs/static/media/gaudi2.2883cd6c71cd415a64f6.png",
     "static/media/kiss2.png": "/designs/static/media/kiss2.422178b3011d06f9f3f1.png",
     "static/media/woody1.png": "/designs/static/media/woody1.7320e347c6e4d5827c41.png",
     "static/media/gaudi3.png": "/designs/static/media/gaudi3.c5f4fcce11493b74f606.png",
-    "static/media/route.png": "/designs/static/media/route.d4fbf9d5600542f0d804.png",
     "static/media/space1.png": "/designs/static/media/space1.65d4a6857df65657c60e.png",
     "static/media/caps.png": "/designs/static/media/caps.fd7374681a793ad2fb25.png",
     "static/media/enjoy3.png": "/designs/static/media/enjoy3.b78978f3e066f39367fd.png",
@@ -83,10 +83,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.4377a784.css.map": "/designs/static/css/main.4377a784.css.map",
-    "main.2683dcb8.js.map": "/designs/static/js/main.2683dcb8.js.map"
+    "main.5dc2d496.js.map": "/designs/static/js/main.5dc2d496.js.map"
   },
   "entrypoints": [
     "static/css/main.4377a784.css",
-    "static/js/main.2683dcb8.js"
+    "static/js/main.5dc2d496.js"
   ]
 }
