@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designs/static/css/main.4377a784.css",
-    "main.js": "/designs/static/js/main.5dc2d496.js",
+    "main.js": "/designs/static/js/main.32bf50ef.js",
     "static/media/mountain.png": "/designs/static/media/mountain.3e5d2455d079b36c37fe.png",
     "static/media/gaudi.png": "/designs/static/media/gaudi.e10437b565882a91bd0f.png",
     "static/media/route.png": "/designs/static/media/route.b8df0f184b50344d3721.png",
@@ -39,6 +39,7 @@
     "static/media/c_cover.png": "/designs/static/media/c_cover.befa60978d0ac218f154.png",
     "static/media/route66_cover.png": "/designs/static/media/route66_cover.3121c33c64bb5ab84339.png",
     "static/media/mountain2.png": "/designs/static/media/mountain2.fadd4837943fe39d537a.png",
+    "static/media/route66.png": "/designs/static/media/route66.3b89548d4dc225c065be.png",
     "static/media/space.png": "/designs/static/media/space.6a1f458b83e9d5755033.png",
     "static/media/miiree12lb.png": "/designs/static/media/miiree12lb.31d6d0d8fc820255ffca.png",
     "static/media/twente.png": "/designs/static/media/twente.bb70155b149cff531692.png",
@@ -50,7 +51,6 @@
     "static/media/nyc3.png": "/designs/static/media/nyc3.74a6d0d13ee201423e18.png",
     "static/media/wander2.png": "/designs/static/media/wander2.f28e27c7812bbaa4d12c.png",
     "static/media/adventure3.png": "/designs/static/media/adventure3.051b7c4072f8edb37f6c.png",
-    "static/media/route66.png": "/designs/static/media/route66.3b89548d4dc225c065be.png",
     "static/media/lionking.png": "/designs/static/media/lionking.b5aa60e47cdaee7fec7f.png",
     "static/media/lmh_cover.png": "/designs/static/media/lmh_cover.8b12c207bcffd8d378cf.png",
     "static/media/frog.png": "/designs/static/media/frog.45688790dc83dc61a2a9.png",
@@ -83,10 +83,10 @@
     "index.html": "/designs/index.html",
     "static/media/linkedin.svg": "/designs/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.4377a784.css.map": "/designs/static/css/main.4377a784.css.map",
-    "main.5dc2d496.js.map": "/designs/static/js/main.5dc2d496.js.map"
+    "main.32bf50ef.js.map": "/designs/static/js/main.32bf50ef.js.map"
   },
   "entrypoints": [
     "static/css/main.4377a784.css",
-    "static/js/main.5dc2d496.js"
+    "static/js/main.32bf50ef.js"
   ]
 }
